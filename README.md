@@ -1,1 +1,1 @@
-# SmartStay-Online-Hotel-Reservation-Platform
+Online Hotel Booking System
